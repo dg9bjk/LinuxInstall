@@ -35,4 +35,5 @@ apt-get -y install vlc
 apt-get -y install firefox-esr
 apt-get -y install thunderbird
 apt-get -y install audacity
+apt-get -y install net-tools
 #
