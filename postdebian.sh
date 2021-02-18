@@ -36,4 +36,7 @@ apt-get -y install firefox-esr
 apt-get -y install thunderbird
 apt-get -y install audacity
 apt-get -y install net-tools
+apt-get -y install htop
+apt-get -y install iptraf
+apt-get -y install rsync
 #
